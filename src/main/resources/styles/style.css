@@ -1,0 +1,80 @@
+/* 
+    Created on : Wed 7 Dec 2021, 02:56 PM
+    Author     : Allwell Onen
+*/
+
+.primary {
+    -fx-background-color: rosybrown;
+}
+
+.secondary {
+    -fx-background-color: #FFFFFF;
+}
+
+.tertiary {
+    -fx-background-color: #E2E2E2;
+}
+
+.layout {
+    -fx-background-radius: 5px;
+}
+
+.codeBtn {
+    -fx-text-fill: #F2F2F2;
+    -fx-background-radius: 5px;
+    -fx-background-color: #AAAAAA;
+}
+
+.codeBtn:hover {
+    -fx-background-color: #888888;
+}
+
+.codeBtn:pressed {
+    -fx-background-color: #666666;
+}
+
+.clearBtn {
+    -fx-text-fill: #F2F2F2;
+    -fx-background-radius: 5px;
+    -fx-background-color: #FF6600;
+}
+
+.clearBtn:hover {
+    -fx-background-color: #EE5500;
+}
+
+.clearBtn:pressed {
+    -fx-background-color: #DD4400;
+}
+
+.cancelBtn {
+    -fx-text-fill: #F2F2F2;
+    -fx-background-radius: 5px;
+    -fx-background-color: #FF3333;
+}
+
+.cancelBtn:hover {
+    -fx-background-color: #DD2222;
+}
+
+.cancelBtn:pressed {
+    -fx-background-color: #CC1111;
+}
+
+.proceedBtn {
+    -fx-background-radius: 50%;
+}
+
+.textField {
+    -fx-border-width: 1px;
+    -fx-border-color: #DDD;
+}
+
+/*.screen {
+    -fx-background-color: #FFFFFF;
+}*/
+
+.proceed {
+    -fx-cursor: hand;
+    -fx-background-color: #00000000;
+}
